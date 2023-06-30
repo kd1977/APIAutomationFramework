@@ -1,0 +1,19 @@
+"2023-Jun-26 12:41:59 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:01 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Records are fetched Successfully
+""2023-Jun-26 12:42:01 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:02 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Records are fetched Successfully
+""2023-Jun-26 12:42:02 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:04 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Created Successfully
+""2023-Jun-26 12:42:04 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:05 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Updated Successfully
+""2023-Jun-26 12:42:05 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:06 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Deleted Successfully
+""2023-Jun-26 12:42:06 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:07 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Deleted Successfully
+""2023-Jun-26 12:42:07 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:08 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Records are fetched Successfully
+""2023-Jun-26 12:42:08 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:09 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Created Successfully
+""2023-Jun-26 12:42:09 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-26 12:42:11 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Updated Successfully
+"

@@ -1,0 +1,3 @@
+"2023-Jun-19 12:26:09 PM [main] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Jun-19 12:26:10 PM [main] ERROR com.demo.stepdefinition.Screen2_GetAPI_StepDef - Failed in executeRequestAndGetResponse GET method: got: <java.net.UnknownHostException: No such host is known (reqres.inapi)>, expected: null
+"

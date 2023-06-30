@@ -1,0 +1,182 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-06-26T07:29:26.085Z",
+        "line": 4,
+        "name": "Test CustomerDetails",
+        "description": "",
+        "id": "customerdetails;test-customerdetails",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 303053100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Database setup is done",
+            "match": {
+              "location": "com.demo.stepdefinition.PaymentDetailsDbValidationSteps.database_setup_is_done()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11911900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is able to connect to the customer details table",
+            "match": {
+              "location": "com.demo.stepdefinition.CustomerDetailsDbValidationSteps.user_is_able_to_connect_to_the_customer_details_table()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is able to retrieve customer details records",
+            "match": {
+              "location": "com.demo.stepdefinition.CustomerDetailsDbValidationSteps.user_is_able_to_retrieve_customer_details_records()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2001400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User is able to verify the customer details records",
+            "match": {
+              "location": "com.demo.stepdefinition.CustomerDetailsDbValidationSteps.user_is_able_to_verify_the_customer_details_records(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Customer Name",
+                  "Customer Billing Address"
+                ]
+              },
+              {
+                "cells": [
+                  "Kedar",
+                  "Pune"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@DB"
+          }
+        ]
+      }
+    ],
+    "name": "CustomerDetails",
+    "description": "",
+    "id": "customerdetails",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/testScenarios/CustomerDetailsDbValidationFeature.feature",
+    "tags": [
+      {
+        "name": "@DB",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-06-26T07:29:26.430Z",
+        "line": 4,
+        "name": "Test PaymentDetails",
+        "description": "",
+        "id": "paymentdetails;test-paymentdetails",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 22925400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Database setup is done",
+            "match": {
+              "location": "com.demo.stepdefinition.PaymentDetailsDbValidationSteps.database_setup_is_done()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3004700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is able to connect to the payment details table",
+            "match": {
+              "location": "com.demo.stepdefinition.PaymentDetailsDbValidationSteps.user_is_able_to_connect_to_the_payment_details_table()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 995600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User is able to retrieve payment details records",
+            "match": {
+              "location": "com.demo.stepdefinition.PaymentDetailsDbValidationSteps.user_is_able_to_retrieve_payment_details_records()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User is able to verify the payment details records",
+            "match": {
+              "location": "com.demo.stepdefinition.PaymentDetailsDbValidationSteps.user_is_able_to_verify_the_payment_details_records()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@DB"
+          }
+        ]
+      }
+    ],
+    "name": "PaymentDetails",
+    "description": "",
+    "id": "paymentdetails",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/testScenarios/PaymentDetailsDbValidationFeature.feature",
+    "tags": [
+      {
+        "name": "@DB",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

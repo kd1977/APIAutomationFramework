@@ -1,0 +1,16 @@
+"2023-Apr-19 18:10:50 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:57 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Created Successfully
+""2023-Apr-19 18:10:57 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:58 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Updated Successfully
+""2023-Apr-19 18:10:58 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Records are fetched Successfully
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] ERROR com.demo.stepdefinition.Screen2_DeleteAPI_StepDef - Failed in executeRequestAndGetResponse DELETE method: got: <io.restassured.path.json.exception.JsonPathException: Failed to parse the JSON document>, expected: null
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Records are fetched Successfully
+""2023-Apr-19 18:10:59 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:11:00 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Created Successfully
+""2023-Apr-19 18:11:00 PM [TestNG-tests-1] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-19 18:11:01 PM [TestNG-tests-1] INFO  com.demo.base.BaseClass - Record Updated Successfully
+"

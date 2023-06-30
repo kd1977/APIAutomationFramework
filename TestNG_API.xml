@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test API">
+    <test name="Execution for API Scripts" >
+    <classes>
+      <class name="com.demo.runner.TestRunnerAPI"/>
+    </classes>
+  </test> 
+</suite> <!-- Default suite -->  
+    

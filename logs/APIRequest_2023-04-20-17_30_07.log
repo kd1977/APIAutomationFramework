@@ -1,0 +1,7 @@
+"2023-Apr-20 17:30:07 PM [main] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-20 17:30:26 PM [main] ERROR com.demo.stepdefinition.Screen1_E2EAPI_StepDef - Failed in executeRequestAndGetResponse POST method: got: <org.apache.http.NoHttpResponseException: reqres.in:443 failed to respond>, expected: null
+""2023-Apr-20 17:30:26 PM [main] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-20 17:30:26 PM [main] ERROR com.demo.stepdefinition.Screen1_E2EAPI_StepDef - Index 0 out of bounds for length 0
+""2023-Apr-20 17:30:26 PM [main] INFO  com.demo.stepdefinition.CommonSteps - User is on Screen NameScreen
+""2023-Apr-20 17:30:26 PM [main] ERROR com.demo.stepdefinition.Screen1_E2EAPI_StepDef - Index 0 out of bounds for length 0
+"
